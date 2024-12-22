@@ -6,7 +6,7 @@ Here is a list of my portfolio projects (click on the dropdown menu):
   <details>
   <summary>Bioinformatics Projects</summary><br />
     
-  1. [Viral Genome Explorer](Viral Genome Explorer)<br />
+  1. [Viral Genome Explorer](https://github.com/sheetalreddy25/my-bio-code/tree/fbe857b601a37ff4e492559657ecd5bcba5c57c0/Viral%20Genome%20Explorer)<br />
     *Description*: A Bioinformatics toolkit designed for in-depth analysis and visualization of viral genomes. Utilizing NCBI BLAST searches, this project identifies exact and closely related sequences to provide insights into viral genetic diversity and evolution. <br />
     *Skills used*: <br />
      Bioinformatics Techniques - NCBI BLAST search tool for sequence alignment <br /> 
